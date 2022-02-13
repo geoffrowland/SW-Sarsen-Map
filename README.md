@@ -1,2 +1,5 @@
 # SW-Sarsen-Map
-Prototype map of sarsens in south West Enland
+
+Prototype map of sarsens in south west England
+
+Data from various sources in CSV format. OS Grid References converted to lat Lom locations with accuracy of a few m.
