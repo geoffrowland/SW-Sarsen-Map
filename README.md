@@ -2,4 +2,6 @@
 
 Prototype map of sarsens in south west England
 
-Data from various sources in CSV format. OS Grid References converted to Lat-Lon locations with accuracy of a few m.
+Demo: https://geoffrowland.github.io/SW-Sarsen-Map/
+
+Data from various sources in CSV format. OS Grid References converted to Lat-Lon locations.
